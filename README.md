@@ -1,6 +1,6 @@
 # printerlogic_login_test
 
-these unit tests will test the functionaly of the login page for the printer logic saas product
+these unit tests will test the functionality of the login page for the printer logic saas product
 
 it will test all of these items:
 
