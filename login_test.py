@@ -87,7 +87,7 @@ class Login_Chrome(unittest.TestCase):
 
 class Login_Safari(Login_Chrome):
     
-    DRIVER=webdriver.Safari()
+    DRIVER = webdriver.Safari()
 
 
 if __name__ == "__main__":
